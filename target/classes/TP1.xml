@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europe>
+	<pays>
+		<nomPays>Allemagne</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">31/03/2019</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">82.9</population>
+			<txFecondite infoTx="enfant/femme">1.57</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">47623</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+	<pays>
+		<nomPays>Belgique</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">30/06/2019</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">11.4</population>
+			<txFecondite infoTx="enfant/femme">1.65</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">47541</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+
+	<pays>
+		<nomPays>Espagne</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">30/06/2019</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">46.7</population>
+			<txFecondite infoTx="enfant/femme">1.31</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">33350</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+
+	<pays>
+		<nomPays>France</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">31/03/2019</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">67</population>
+			<txFecondite infoTx="enfant/femme">1.9</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">44217</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+	<pays>
+		<nomPays>Italie</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">22/12/2018</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">60.4</population>
+			<txFecondite infoTx="enfant/femme">1.32</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">35614</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+
+	<pays>
+		<nomPays>Royaume-Uni</nomPays>
+		<dateDeReleve format="dd/MM/yyyy">31/01/2019</dateDeReleve>
+
+		<donneesDemographiques>
+			<population unite="millions">66.5</population>
+			<txFecondite infoTx="enfant/femme">1.74</txFecondite>
+		</donneesDemographiques>
+
+		<donneesEconomiques>
+			<pibParHabitant unite="Dollars">43688</pibParHabitant>
+			<monnaie>Euro</monnaie>
+		</donneesEconomiques>
+	</pays>
+
+
+</europe>
